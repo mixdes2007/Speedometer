@@ -1,0 +1,6 @@
+{
+  "name": "GPS Speedometer",
+  "description": "Real-time GPS speedometer with dynamic speed limit alerts, preset limits, and warning alarms.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
